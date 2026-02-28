@@ -1,13 +1,13 @@
 # Hi there, I'm Alvin! 👋
 
-Welcome to my GitHub! I'm an **Artificial Intelligence Researcher** based in Kampala, Uganda, with 5+ years of experience in the field. I am deeply passionate about advancing **AI for Social Good**, focusing on building white-box, trustworthy, impactful systems that solve real-world problems.
+Welcome to my GitHub! I'm an **Artificial Intelligence Researcher** based in Kampala, Uganda, with 5+ years of experience in the field. I am deeply passionate about advancing AI for Social Good, focusing on building white-box, trustworthy, impactful systems that solve real-world problems.
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on building accessible AI solutions, contributing to projects like the **`aphrc-nocode/no-code-app`**.
-- 🌱 My core research areas are **Natural Language Processing (NLP)** and **Computer Vision (CV)**, with a focus on Large Language Models (LLMs).
-- 🏥 A massive chunk of my interests belongs to **Clinical Research & Bioinformatics**. I am actively researching **Explainable Artificial Intelligence (XAI)** to translate complex model outputs into actionable clinical insights and build white-box AI models that prioritize the integration of clinical knowledge to drive predictions.
+- 🌱 My core research areas are Natural Language Processing (NLP) and Computer Vision (CV), with a focus on Large Language Models (LLMs).
+- 🏥 A massive chunk of my interest belongs to Clinical Research. I am actively researching Explainable Artificial Intelligence (XAI) to translate complex model outputs into actionable clinical insights and build white-box AI models that prioritize the integration of clinical knowledge to drive predictions.
 - ✍️ I am also passionate about scientific writing.
 
 ---
