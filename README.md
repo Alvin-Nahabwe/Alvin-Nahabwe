@@ -43,6 +43,3 @@ Welcome to my GitHub! I'm an **Artificial Intelligence Researcher** based in Kam
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
-_"Using AI not just to push boundaries, but to uplift communities."_
