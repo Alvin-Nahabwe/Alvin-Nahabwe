@@ -14,14 +14,14 @@ Welcome to my GitHub! I'm an Artificial Intelligence Researcher based in Kampala
 
 ### 💻 Tech Stack & Tools
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **Frameworks:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white), ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-- **Deployment & Ops:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Frameworks:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+- **Deployment & Ops:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Alvin-Nahabwe&show_icons=true&theme=radical&hide_border=true" alt="Alvin's GitHub Stats" />
 
