@@ -23,11 +23,11 @@ Welcome to my GitHub! I'm an **Artificial Intelligence Researcher** based in Kam
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvin-Nahabwe&show_icons=true&theme=radical&hide_border=true" alt="Alvin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Alvin-Nahabwe&show_icons=true&theme=radical&hide_border=true" alt="Alvin's GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Nahabwe&layout=compact&theme=radical&hide_border=true" alt="Alvin's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alvin-Nahabwe&layout=compact&theme=radical&hide_border=true" alt="Alvin's Top Languages" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvin-Nahabwe&theme=radical&hide_border=true" alt="Alvin's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Alvin-Nahabwe&theme=radical&hide_border=true" alt="Alvin's GitHub Streak" />
 
 </div>
 
