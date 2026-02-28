@@ -1,6 +1,6 @@
 # Hi there, I'm Alvin! 👋
 
-Welcome to my GitHub! I'm an **Artificial Intelligence Researcher** based in Kampala, Uganda, with 5+ years of experience in the field. I am deeply passionate about advancing AI for Social Good, focusing on building white-box, trustworthy, impactful systems that solve real-world problems.
+Welcome to my GitHub! I'm an Artificial Intelligence Researcher based in Kampala, Uganda, with 5+ years of experience in the field. I am deeply passionate about advancing AI for Social Good, focusing on building white-box, trustworthy, impactful systems that solve real-world problems.
 
 ---
 
